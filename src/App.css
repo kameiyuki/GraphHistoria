@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.card-row{
+  margin: 0.25em 0px;
+  align-items: center;
+}
+
+.card-label{
+  gap: 0.5em;
+}
+
+img{
+  width:80%;
+}
+.full-page{
+  width: 100vw;
+  height: 100vh;
+}
+.PersonCard{
+  padding-top: 50px;
+}
+
+.IntoroductionPerson p{
+  text-align: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
