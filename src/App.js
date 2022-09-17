@@ -9,7 +9,7 @@ import { useState } from 'react'
 
 
 function App() {
-  //aaaaaaaaaaaaaaaaaaaaaaaa
+  //aaaaaaaaaaaaaaaaaaaaaaaakorehatesut
   const initialState1 = {
     odanobunaga:{
       name:"織田信長",
